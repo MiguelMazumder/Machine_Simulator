@@ -26,3 +26,7 @@ This Java project is a simulator for a simple machine with components such as ca
    ```bash
    git clone https://github.com/yourusername/machine-simulator.git
    cd machine-simulator
+
+2. Execution Demonstration
+
+![alt-text](https://github.com/insp7/csa6461Simulator/blob/master/ExecutionGif.gif)
